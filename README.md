@@ -14,6 +14,11 @@
 
 ## Installation 📦
 
+> [!CAUTION]
+> The functionality provided by this package has been merged into https://github.com/vapor/jwt, use that package instead
+
+---
+
 To include it in your package, add the following to your `Package.swift` file.
 
 ```swift
